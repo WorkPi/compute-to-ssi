@@ -1,8 +1,7 @@
 # compute-to-ssi
 
 ## Purpose
-Let A.I. learn from data in Self Sovereign Identity wallets without violating privacy
-TODO: purpose here
+While personal data being protected and governed with SSI wallets can guarantee privacy of that data, currently A.I. algorithms are not able to learn from it. This is a large barrier for adoption. The purpose of this project is to use Compute-To-Data algorithms on data enclosed in personal Self-Sovereign Identity (SSI) wallets without compromising privacy.
 
 ## Definition
 
